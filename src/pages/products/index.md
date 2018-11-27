@@ -1,7 +1,6 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
+templateKey: product-page
+title: Our Coffee Test
 image: /img/jumbotron.jpg
 heading: What we offer
 description: >-
@@ -97,5 +96,6 @@ pricing:
         - Green or roasted beans
         - Unlimited varieties
       plan: Custom
-      price: '??'
+      price: '**'
 ---
+
